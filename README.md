@@ -5,5 +5,4 @@
 
 - 🌱 I’m currently learning Java, C++, Python
 - 👯 I’m looking to collaborate on Open source projects
-- 🤔 I’m looking for help with ...
 - 📫 How to reach me: [telegram](https://t.me/olegoratovskiy), oleg_oratovskiy@mail.ru
