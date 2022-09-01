@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Oleg
-### I am a first-year Computer Science student and Java/C++ developer
+### I am a second-year Computer Science student and Java/C++ developer
 
 <img src="https://c4.wallpaperflare.com/wallpaper/366/453/134/nature-landscape-panoramas-lake-wallpaper-preview.jpg" width="600" height="300">
 
